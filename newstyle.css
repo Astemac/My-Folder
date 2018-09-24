@@ -1,0 +1,44 @@
+
+body {
+	position: relative;
+}
+
+.container-fluid {
+	padding: 40px;
+}
+
+h3 {
+	margin: 15px;
+}
+
+.cf1 {
+	background-color: #5da2d5;
+}
+
+.cf2 {
+	background-color: #ffccbc;
+}
+
+.cf3 {
+	background-color: #90ccf4;
+}
+
+.cf4 {
+	background-color: #ffaf00;
+}
+
+.cf5 {
+	background-color: #0091cf;
+}
+
+img {
+	margin: 15px;
+	margin-top: 20px;
+	margin-bottom: 0px; 
+}
+
+.about-class{
+	font-size: 18px;
+	font-family: arial;
+}
+
